@@ -1,7 +1,7 @@
 function double(num) {
-  return x * 3;
+  return x * 2;
 }
 
-let v = 2;
+let x = 5;
 
 double(x);
